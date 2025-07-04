@@ -37,23 +37,8 @@ This tool uses **Natural Language Processing (NLP)** to analyze the **emotional 
 ---
 
 ## 📂 Project Structure
-emotional-storyboard/
-│
-├── app/ # Flask app files
-│ ├── routes/ # Route handlers
-│ ├── models/ # SQLAlchemy models
-│ ├── templates/ # HTML templates
-│ └── static/ # CSS/JS/Images
-│
-├── nlp/ # NLP model and preprocessing scripts
-├── generator/ # Stable Diffusion interface
-├── migrations/ # DB migrations
-├── uploads/ # User-uploaded scripts
-│
-├── config.py # Environment config
-├── requirements.txt
-├── README.md
-└── main.py
+![{25540F98-F581-4CC3-9625-DA1BCF530950}](https://github.com/user-attachments/assets/ec4b566c-1910-4a52-b61d-b076ace9febc)
+
 
 ## 🚀 Getting Started (Local Setup)
 
